@@ -40,5 +40,5 @@ If you are struggling with **SSH**, please follow this link for more instruction
 -   Please setup new [React](https://reactjs.org/)**
 -   Please setup [Eslint Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)
 -   Please create a movies page which will list all the movies from the API
--   On click at specific book, please redirect to the single book
+-   On click at specific moive, please redirect to the single movie
 -   Please add a simple unit test to compare if the functional components match props
